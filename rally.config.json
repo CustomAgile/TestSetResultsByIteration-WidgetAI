@@ -1,0 +1,8 @@
+{
+  "name": "Test Set Results By Iteration",
+  "description": "Test Set Results By Iteration — a CustomAgile Rally widget",
+  "sdk": "html",
+  "version": "0.1.0",
+  "bundleReact": false,
+  "build": 0
+}
